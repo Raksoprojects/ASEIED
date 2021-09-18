@@ -45,7 +45,7 @@ Mimo to, wyniki jakie otrzymaliśmy są prawdopodobne i oczekiwane.
 
 ## Napotkane problemy
 
-Podczas wykonywania zadania 2 nie napotkaliśmy poważnych problemów. To co wydało się anjtrudniejsze to sposób w jaki powinniśmy obliczyć czas na podstawie danych, jednak to było dosyć proste i po krótkim czytaniu dokumentacji udało nam się zrealizować wymagane zadanie.
+Podczas wykonywania zadania 2 nie napotkaliśmy poważnych problemów. To co wydało się najtrudniejsze to sposób w jaki powinniśmy obliczyć czas na podstawie danych, jednak to było dosyć proste i po krótkim czytaniu dokumentacji udało nam się zrealizować wymagane zadanie.
 
 Niestety, oryginalnie mieliśmy wykonywać zadanie 1, z którego jednak musieliśmy zrezygnować, przez niedostępność danych.
 Dane, z których mieliśmy tam korzystać były w dziwnym formacie 'WARC', co do którego było bardzo mało objaśnień jak i pomocy na forach internetowych.
