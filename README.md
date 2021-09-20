@@ -43,6 +43,8 @@ Mimo to, wyniki jakie otrzymaliśmy są prawdopodobne i oczekiwane.
 
 ![Wykres](Graph.png)
 
+![Wykres w m/s](Graph2.png)
+
 ## Napotkane problemy
 
 Podczas wykonywania zadania 2 nie napotkaliśmy poważnych problemów. To co wydało się najtrudniejsze to sposób w jaki powinniśmy obliczyć czas na podstawie danych, jednak to było dosyć proste i po krótkim czytaniu dokumentacji udało nam się zrealizować wymagane zadanie.
